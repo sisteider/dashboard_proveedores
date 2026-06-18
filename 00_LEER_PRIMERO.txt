@@ -1,0 +1,230 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                  ✅ DASHBOARD ACTUALIZADO v1.2 - LISTO ✅                   ║
+║                                                                              ║
+║           Tu dashboard ha sido completamente actualizado y está              ║
+║              100% listo para publicar en internet (GRATIS)                   ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 🚀 PARA PUBLICAR EN INTERNET EN 5 MINUTOS:                                   │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│  1. Lee: PUBLICAR_EN_WEB.md (paso a paso super simple)                      │
+│                                                                              │
+│  2. Sigue 3 pasos (GitHub + Streamlit Cloud)                                │
+│                                                                              │
+│  3. ¡LISTO! Tu dashboard estará en internet                                 │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 📥 QUÉ DESCARGAR (16 archivos):                                              │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│ GUÍAS (Lee en este orden):                                                   │
+│   📖 INICIO_AQUI.md ........................... Empieza por aquí              │
+│   📖 PUBLICAR_EN_WEB.md ....................... Publica en 5 min             │
+│   📖 CAMBIOS_REALIZADOS.md .................... Qué cambió                  │
+│   📖 CHECKLIST_PRE_PUBLICACION.md ............ Verificación antes            │
+│   📖 DEPLOYMENT_GUIDE.md ....................... Opciones avanzadas          │
+│                                                                              │
+│ CÓDIGO (Necesitas TODOS estos 8):                                           │
+│   🐍 app.py (principal)                                                     │
+│   🐍 database.py (BD)                                                       │
+│   🐍 auth.py (login)                                                        │
+│   🐍 seed_data.py (datos)                                                   │
+│   📋 requirements.txt (dependencias)                                         │
+│   📋 README.md (doc)                                                        │
+│   📋 .gitignore (GitHub)                                                    │
+│   ⚙️  .streamlit/config.toml (config)                                        │
+│                                                                              │
+│ EXTRAS:                                                                      │
+│   📋 DESCARGAS_LISTA.txt (resumen descargas)                                │
+│   📋 00_LEER_PRIMERO.txt (este archivo)                                     │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ ✨ CAMBIOS EN v1.2:                                                           │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│ 🔒 SEGURIDAD:                                                                │
+│    ✅ Credenciales OCULTAS (no se ven en la app)                            │
+│    ✅ Panel de cambio de contraseña en el sidebar                           │
+│    ✅ Hashing SHA-256 en todas las contraseñas                              │
+│                                                                              │
+│ 📊 NUEVAS PESTAÑAS (6 en total):                                             │
+│    1. 🏢 Proveedores (Liberty, ETB, MNC, etc.)                              │
+│    2. 🌎 Países / Áreas (Colombia, Honduras, etc.)                          │
+│    3. 👥 Equipo RMP (equipo interno)                                        │
+│    4. 🔌 Extensiones (19 completas - antes 5)                               │
+│    5. 🗺️ MANOS REMOTAS (55+ municipios) ← NUEVA ⭐                           │
+│    6. ⏰ TURNOS DMC (on-call por país) ← NUEVA ⭐                            │
+│                                                                              │
+│ 📈 DATOS COMPLETADOS:                                                       │
+│    • Extensiones: 19 (antes 5) .................. +14 nuevas                │
+│    • ETB: 9 contactos con escalamiento ......... +9 nuevos                 │
+│    • Manos Remotas: 55+ municipios ............. Cobertura completa         │
+│    • Turnos DMC: Honduras, Guatemala, El Salv.. 7 turnos cargados           │
+│    • Proveedores: STI, ACT, INPRORIENTE, R.TIF. Con contactos               │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 🔐 CREDENCIALES DE ACCESO:                                                   │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│ 👑 USUARIO ADMIN (acceso total):                                             │
+│    Usuario:     admin                                                       │
+│    Contraseña:  Admin2024*                                                  │
+│                                                                              │
+│ 👁️  USUARIO VIEWER (solo lectura):                                           │
+│    Usuario:     viewer                                                      │
+│    Contraseña:  Ver2024*                                                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 3️⃣ PASOS RÁPIDOS PARA PUBLICAR:                                              │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│ PASO 1: Crear cuenta en GitHub (2 minutos)                                  │
+│         https://github.com/signup                                           │
+│         → Email + contraseña + confirmar                                    │
+│                                                                              │
+│ PASO 2: Subir archivos a GitHub (1 minuto)                                  │
+│         https://github.com/new                                              │
+│         → Nombre: "dashboard_proveedores"                                   │
+│         → IMPORTANTE: Seleccionar "Public" ✅                                │
+│         → Subir 8 archivos Python                                           │
+│                                                                              │
+│ PASO 3: Publicar en Streamlit Cloud (2 minutos)                             │
+│         https://share.streamlit.io                                          │
+│         → "New app"                                                         │
+│         → Seleccionar: dashboard_proveedores                                │
+│         → Main file: app.py                                                 │
+│         → "Deploy"                                                          │
+│                                                                              │
+│ ✅ RESULTADO:                                                                │
+│         Tu URL será: https://dashboard-proveedores-TU_USUARIO.streamlit.app │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ ❓ PREGUNTAS FRECUENTES:                                                      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│ P: ¿Es gratis?                                                               │
+│ R: Sí, Streamlit Cloud es gratis.                                           │
+│                                                                              │
+│ P: ¿Funciona en móvil?                                                       │
+│ R: Sí, perfectamente.                                                       │
+│                                                                              │
+│ P: ¿Dónde se guardan los datos?                                             │
+│ R: En SQLite en los servidores de Streamlit Cloud.                          │
+│                                                                              │
+│ P: ¿Cuántos usuarios simultáneos?                                           │
+│ R: ~100 sin problemas.                                                      │
+│                                                                              │
+│ P: ¿Puedo cambiar la contraseña?                                            │
+│ R: Sí, desde el panel en el sidebar. O edita auth.py para hacerlo           │
+│    permanente.                                                              │
+│                                                                              │
+│ P: ¿Qué pasa si reseteo la BD?                                              │
+│ R: Se recrea automático con los datos de seed_data.py.                      │
+│                                                                              │
+│ Más preguntas: Lee CHECKLIST_PRE_PUBLICACION.md                             │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 📖 ORDEN DE LECTURA RECOMENDADO:                                             │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│ 1️⃣  Este archivo (00_LEER_PRIMERO.txt)                           Ahora ✓   │
+│                                                                              │
+│ 2️⃣  PUBLICAR_EN_WEB.md                                    5 minutos         │
+│     → Para publicar inmediatamente                                          │
+│                                                                              │
+│ 3️⃣  INICIO_AQUI.md (opcional si quieres entender más)       10 minutos      │
+│     → Explicación completa de qué cambió                                    │
+│                                                                              │
+│ 4️⃣  CAMBIOS_REALIZADOS.md (si quieres ver detalles)         15 minutos      │
+│     → Estadísticas y cambios específicos                                    │
+│                                                                              │
+│ 5️⃣  CHECKLIST_PRE_PUBLICACION.md (antes de publicar)          5 minutos     │
+│     → Verificación final                                                    │
+│                                                                              │
+│ 6️⃣  DEPLOYMENT_GUIDE.md (si quieres opciones avanzadas)      20 minutos      │
+│     → VPS, Docker, dominios personalizados                                  │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ ⚠️  IMPORTANTE ANTES DE PUBLICAR:                                             │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│ ✅ DESCARGAR:                                                                │
+│    • 8 archivos Python (app.py, database.py, auth.py, seed_data.py, etc.)  │
+│    • requirements.txt                                                       │
+│    • .gitignore                                                             │
+│    • .streamlit/config.toml                                                 │
+│                                                                              │
+│ ✅ CARPETA:                                                                  │
+│    • Crear carpeta: "dashboard_proveedores"                                │
+│    • Poner TODOS los 8 archivos dentro                                      │
+│                                                                              │
+│ ✅ GITHUB:                                                                   │
+│    • Crear repositorio PUBLIC (muy importante!)                             │
+│    • Subir carpeta con todos los archivos                                   │
+│                                                                              │
+│ ✅ STREAMLIT CLOUD:                                                          │
+│    • Conectar con GitHub                                                    │
+│    • Seleccionar repo: dashboard_proveedores                                │
+│    • Main file: app.py (no otro)                                            │
+│    • Deploy                                                                 │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 📞 SOPORTE:                                                                   │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│ Si algo no funciona:                                                         │
+│                                                                              │
+│ 1. Lee: CHECKLIST_PRE_PUBLICACION.md → sección "🆘 TROUBLESHOOTING"        │
+│                                                                              │
+│ 2. Verifica que tengas los 8 archivos Python en la carpeta                  │
+│                                                                              │
+│ 3. Asegúrate que requirements.txt esté en la raíz                           │
+│                                                                              │
+│ 4. Confirma que tu repo en GitHub es PUBLIC                                 │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                  🎯 PRÓXIMO PASO: LEE PUBLICAR_EN_WEB.md                    ║
+║                                                                              ║
+║                  Tu dashboard estará en internet en 5 minutos 🚀             ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+Documento: 00_LEER_PRIMERO.txt
+Versión: 1.2
+Estado: ✅ LISTO PARA PRODUCCIÓN
+Actualización: Junio 2026
+

@@ -1,0 +1,11 @@
+# requirements.txt
+# -----------------
+# Lista de librerías externas que necesita la app.
+# Para instalarlas: pip install -r requirements.txt
+#
+# streamlit  → el framework del dashboard
+# pandas     → manejo de tablas y datos (DataFrames)
+# (sqlite3 ya viene incluido en Python, no se lista aquí)
+
+streamlit==1.35.0
+pandas==2.2.2
